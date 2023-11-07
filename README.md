@@ -22,6 +22,7 @@ Apply data visualization techniques to identify the patterns of the data.
 # Code and Output:
 
 Name:ARUN KUMAR SUKDEV CHAVAN
+
 Reg no:212222230013
 
 ```python
